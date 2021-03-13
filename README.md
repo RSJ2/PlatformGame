@@ -6,7 +6,7 @@ This is a plaform game for Final Project:
 # CS50 FINAL PROJECT
 ## 2D game climbing the Covid-19 recovery
 
-## Video Demo:  <URL HERE>
+## Video Demo:  <https://youtu.be/5JT0TYvLPwM>
 
 ## Description:
 #### This project is a fully working 2D game using python that takes user keyboard input to move a player icon to jump from platform to platform upwards, keeping track of score and reseting if a player dies/falls. My final project esentially tried many new concepts for me on 2D graphics making. I tried to make a very simple 2D platform game but using several functionalities not covered during the CS50 course. Firstly I moved away from the CS50 IDE onto Pycharm for coding in python. I analysed 3 different 2D graphics on python, Turtle, Pyglet and Pygame, and decided on the later due to the percieved more active support and advantages on 2D gaming. Despite game design nowadays being easier on platforms like Unity or LÖVE I was adiment to develop it on python. The course doesn't really touch on any game design so many of the concepts were new to me. First I sketched out what I wanted to do and how it would work on paper, a typical platform jumping game, with different icons, sounds, music and others. An important thing I focused on was the design, I wanted a small amout of code for an never ending game with minimal assets.
