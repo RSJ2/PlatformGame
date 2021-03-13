@@ -1,7 +1,7 @@
 # PlatformGame
 This is a plaform game for Final Project:
 
-![](./resource/image/jump.gif)
+![](./Images/EspanaIcon.gif)
 
 # CS50 FINAL PROJECT
 ## 2D game climbing the Covid-19 recovery
